@@ -1,0 +1,6 @@
+;    序号      名称        参数1        参数2         参数3          参数4      报警开关
+codeno = 1 name = DB1 v1 = 50007020 v2 = 50007020 v3 = 50000100 v4 = 50000100 alarm = off date = 20201205
+codeno = 2 name = DB2 v1 = 300020020 v2 = 210050508 v3 = 300300500 v4 = 448231300 alarm = off date = 20201205
+codeno = 3 name = TNT v1 = 60000030 v2 = 0 v3 = 400003 v4 = 0 alarm = on date = 20201205
+codeno = 4 name = BP黑火药1 v1 = 50000030 v2 = 0 v3 = 400003 v4 = 0 alarm = on date = 20201205
+codeno = 4 name = CC v1 = 0 v2 = 60000030 v3 = 0 v4 = 400003 alarm = on date = 20201205
