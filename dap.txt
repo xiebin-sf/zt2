@@ -1,5 +1,5 @@
 codeno = 1 ll = 1207 ul = 1 name = 0.Version
-odeno = 2 ll = 15000 ul = 21000 name = 1.ExtPower
+codeno = 2 ll = 15000 ul = 21000 name = 1.ExtPower
 codeno = 3 ll = 12000 ul = 13000 name = 2.BatPower1
 codeno = 4 ll = 65535 ul = 16000 name = 3.BatPower2
 codeno = 5 ll = 1800 ul = 1820 name = 4.SampleTemp
